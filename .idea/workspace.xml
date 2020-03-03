@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd1afb1c-0139-450e-81c6-dea8f3bed5b0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YOekRsJdA3dzz0gxC0NYCD9AB8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.PerfectNumberBetween">
+    <configuration name="NumbOccurenceForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.NumbOccurenceForLoop" />
+      <module name="CodingChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding.challenge.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberOccurenceLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.NumberOccurenceLoop" />
+      <module name="CodingChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding.challenge.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumberBetween" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.PerfectNumberBetween" />
+      <module name="CodingChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding.challenge.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumberForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.PerfectNumberForLoop" />
+      <module name="CodingChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding.challenge.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PerfectNumberForLoop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.PerfectNumberForLoop2" />
+      <module name="CodingChallenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding.challenge.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="codding_challenge" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.EvenNumbers" />
+      <module name="CodingChallenge" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.codding_challenge" />
+      <item itemvalue="Application.NumberOccurenceLoop" />
+      <item itemvalue="Application.NumbOccurenceForLoop" />
+      <item itemvalue="Application.PerfectNumberForLoop" />
+      <item itemvalue="Application.PerfectNumberForLoop2" />
+      <item itemvalue="Application.PerfectNumberBetween" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PerfectNumberBetween" />
+        <item itemvalue="Application.PerfectNumberForLoop2" />
+        <item itemvalue="Application.PerfectNumberForLoop" />
+        <item itemvalue="Application.NumbOccurenceForLoop" />
+        <item itemvalue="Application.NumberOccurenceLoop" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd1afb1c-0139-450e-81c6-dea8f3bed5b0" name="Default Changelist" comment="" />
+      <created>1582818211165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582818211165</updated>
+      <workItem from="1582818214160" duration="1428000" />
+      <workItem from="1583217865571" duration="2464000" />
+      <workItem from="1583245917315" duration="6677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="281" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582819529776">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="281" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.811@0.23.1440.811" timestamp="1582819529776" />
+    <state width="1358" height="195" key="GridCell.Tab.0.bottom" timestamp="1583255526720">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1583255526720" />
+    <state width="1358" height="195" key="GridCell.Tab.0.center" timestamp="1583255526720">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1583255526720" />
+    <state width="1358" height="195" key="GridCell.Tab.0.left" timestamp="1583255526719">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1583255526719" />
+    <state width="1358" height="195" key="GridCell.Tab.0.right" timestamp="1583255526720">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state width="1358" height="195" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1583255526720" />
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1583245946821">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.811@0.23.1440.811" timestamp="1583245946821" />
+  </component>
+</project>
