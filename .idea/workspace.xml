@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd1afb1c-0139-450e-81c6-dea8f3bed5b0" name="Default Changelist" comment="" />
+    <list default="true" id="5a3b4b34-cc82-4e44-ab27-70cbb9940b72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_coding_challenge.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/META-INF/CodingChallenge.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/BalanseParenthesesStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/EvenNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/FibonacciSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/NumbOccurenceForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/NumberOccurenceLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/OddNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/PerfectNumberBetween.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/PerfectNumberForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/PerfectNumberForLoop2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/PerfectNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/PrimeNumbers2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/ReverseForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/ReverseStringBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/ReverseWhileLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/SwapArifmetic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/SwapArifmeticAdvance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/SwapTemporaryVar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/SwipeStringConcat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodingChallenge/coding/challenge/java/SwipeXORBest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding/challenge/java/OddNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/challenge/java/OddNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coding/challenge/java/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coding/challenge/java/PrimeNumber.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +44,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1YOekRsJdA3dzz0gxC0NYCD9AB8" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZJHyfNe0L0YE7zHk97dPmT4jE9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,14 +58,69 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.PerfectNumberBetween">
-    <configuration name="NumbOccurenceForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.NumbOccurenceForLoop" />
-      <module name="CodingChallenge" />
+  <component name="RunManager" selected="Application.Binary">
+    <configuration name="Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_cc_java.Binary" />
+      <module name="Java_coding_challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my_cc_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="My_Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_cc_java.My_Prime" />
+      <module name="Java_coding_challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my_cc_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="My_even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_cc_java.My_even" />
+      <module name="Java_coding_challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my_cc_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="My_reverseForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_cc_java.My_reverseForLoop" />
+      <module name="Java_coding_challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my_cc_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.PrimeNumber" />
+      <module name="Java_coding_challenge" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="coding.challenge.java.*" />
@@ -40,80 +131,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOccurenceLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.NumberOccurenceLoop" />
-      <module name="CodingChallenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="coding.challenge.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PerfectNumberBetween" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.PerfectNumberBetween" />
-      <module name="CodingChallenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="coding.challenge.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PerfectNumberForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.PerfectNumberForLoop" />
-      <module name="CodingChallenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="coding.challenge.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PerfectNumberForLoop2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.PerfectNumberForLoop2" />
-      <module name="CodingChallenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="coding.challenge.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="codding_challenge" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="coding.challenge.java.EvenNumbers" />
-      <module name="CodingChallenge" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.codding_challenge" />
-      <item itemvalue="Application.NumberOccurenceLoop" />
-      <item itemvalue="Application.NumbOccurenceForLoop" />
-      <item itemvalue="Application.PerfectNumberForLoop" />
-      <item itemvalue="Application.PerfectNumberForLoop2" />
-      <item itemvalue="Application.PerfectNumberBetween" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PerfectNumberBetween" />
-        <item itemvalue="Application.PerfectNumberForLoop2" />
-        <item itemvalue="Application.PerfectNumberForLoop" />
-        <item itemvalue="Application.NumbOccurenceForLoop" />
-        <item itemvalue="Application.NumberOccurenceLoop" />
+        <item itemvalue="Application.Binary" />
+        <item itemvalue="Application.My_reverseForLoop" />
+        <item itemvalue="Application.My_Prime" />
+        <item itemvalue="Application.PrimeNumber" />
+        <item itemvalue="Application.My_even" />
       </list>
     </recent_temporary>
   </component>
@@ -122,14 +146,14 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dd1afb1c-0139-450e-81c6-dea8f3bed5b0" name="Default Changelist" comment="" />
-      <created>1582818211165</created>
+      <changelist id="5a3b4b34-cc82-4e44-ab27-70cbb9940b72" name="Default Changelist" comment="" />
+      <created>1584550532856</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582818211165</updated>
-      <workItem from="1582818214160" duration="1428000" />
-      <workItem from="1583217865571" duration="2464000" />
-      <workItem from="1583245917315" duration="6677000" />
+      <updated>1584550532856</updated>
+      <workItem from="1584550536586" duration="5844000" />
+      <workItem from="1584773073604" duration="70000" />
+      <workItem from="1584932452659" duration="7545000" />
     </task>
     <servers />
   </component>
@@ -137,29 +161,53 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="281" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582819529776">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="229" y="42" key="CommitChangelistDialog2" timestamp="1584773137394">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="281" y="83" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.811@0.23.1440.811" timestamp="1582819529776" />
-    <state width="1358" height="195" key="GridCell.Tab.0.bottom" timestamp="1583255526720">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="229" y="42" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1584773137394" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom" timestamp="1584943820424">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="195" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1583255526720" />
-    <state width="1358" height="195" key="GridCell.Tab.0.center" timestamp="1583255526720">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1584943820424" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center" timestamp="1584943820422">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="195" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1583255526720" />
-    <state width="1358" height="195" key="GridCell.Tab.0.left" timestamp="1583255526719">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1584943820422" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left" timestamp="1584943820422">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="195" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1583255526719" />
-    <state width="1358" height="195" key="GridCell.Tab.0.right" timestamp="1583255526720">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1584943820422" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right" timestamp="1584943820422">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="195" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1583255526720" />
-    <state x="397" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1583245946821">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1584943820422" />
+    <state width="1358" height="249" key="GridCell.Tab.1.bottom" timestamp="1584558910910">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="397" y="261" key="com.intellij.ide.util.TipDialog/0.23.1440.811@0.23.1440.811" timestamp="1583245946821" />
+    <state width="1358" height="249" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1584558910910" />
+    <state width="1358" height="249" key="GridCell.Tab.1.center" timestamp="1584558910909">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1358" height="249" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1584558910909" />
+    <state width="1358" height="249" key="GridCell.Tab.1.left" timestamp="1584558910909">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1358" height="249" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1584558910909" />
+    <state width="1358" height="249" key="GridCell.Tab.1.right" timestamp="1584558910909">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1358" height="249" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1584558910909" />
+    <state x="204" y="23" width="1024" height="827" key="SettingsEditor" timestamp="1584773119470">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="204" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1584773119470" />
+    <state x="374" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1584932460628">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="374" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1584932460628" />
+    <state x="373" y="82" width="689" height="708" key="find.popup" timestamp="1584938526725">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="373" y="82" width="689" height="708" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1584938526725" />
   </component>
 </project>
