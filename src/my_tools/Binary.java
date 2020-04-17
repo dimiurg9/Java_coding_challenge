@@ -1,4 +1,4 @@
-package my_cc_java;
+package my_tools;
 
 public class Binary {
 
