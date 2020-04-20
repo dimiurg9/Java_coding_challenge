@@ -3,16 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5a3b4b34-cc82-4e44-ab27-70cbb9940b72" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_coding_challenge/my_cc_java/Binary.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_coding_challenge/my_cc_java/My_Prime.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_coding_challenge/my_cc_java/My_even.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_coding_challenge/my_cc_java/My_odd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_coding_challenge/my_cc_java/My_reverseForLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_cc_java/Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_tools/Binary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_cc_java/My_Prime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_cc_java/My_even.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_cc_java/My_odd.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_cc_java/My_reverseForLoop.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,26 +51,13 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.PerfectNumber_Practice">
-    <configuration name="Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my_tools.Binary" />
+  <component name="RunManager" selected="Application.BalanceParenthesesStackPractice">
+    <configuration name="BalanceParenthesesStackPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CC_Practice.BalanceParenthesesStackPractice" />
       <module name="Java_coding_challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="my_tools.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="My_Prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my_tools.My_Prime" />
-      <module name="Java_coding_challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="my_tools.*" />
+          <option name="PATTERN" value="CC_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,13 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ternaryPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my_tools.ternaryPractice" />
+      <module name="Java_coding_challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my_tools.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BalanceParenthesesStackPractice" />
+        <item itemvalue="Application.ternaryPractice" />
         <item itemvalue="Application.PerfectNumber_Practice" />
         <item itemvalue="Application.My_reverseForLoop2" />
         <item itemvalue="Application.My_reverseForLoop" />
-        <item itemvalue="Application.Binary" />
-        <item itemvalue="Application.My_Prime" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +142,7 @@
       <workItem from="1584932452659" duration="7545000" />
       <workItem from="1585338362048" duration="2279000" />
       <workItem from="1587074877949" duration="5287000" />
+      <workItem from="1587387066777" duration="8228000" />
     </task>
     <servers />
   </component>
@@ -159,6 +150,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="180" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587392916936">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="180" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1587392916936" />
     <state x="394" y="242" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587081679520">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
@@ -167,22 +162,22 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="229" y="42" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1584773137394" />
-    <state width="1358" height="201" key="GridCell.Tab.0.bottom" timestamp="1587083301301">
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom" timestamp="1587396136515">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1587083301301" />
-    <state width="1358" height="201" key="GridCell.Tab.0.center" timestamp="1587083301301">
+    <state width="1358" height="201" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1587396136515" />
+    <state width="1358" height="201" key="GridCell.Tab.0.center" timestamp="1587396136515">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1587083301301" />
-    <state width="1358" height="201" key="GridCell.Tab.0.left" timestamp="1587083301300">
+    <state width="1358" height="201" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1587396136515" />
+    <state width="1358" height="201" key="GridCell.Tab.0.left" timestamp="1587396136514">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1587083301300" />
-    <state width="1358" height="201" key="GridCell.Tab.0.right" timestamp="1587083301301">
+    <state width="1358" height="201" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1587396136514" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right" timestamp="1587396136515">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1587083301301" />
+    <state width="1358" height="201" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1587396136515" />
     <state width="1358" height="249" key="GridCell.Tab.1.bottom" timestamp="1584558910910">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
@@ -203,13 +198,13 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="204" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1584773119470" />
-    <state x="374" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1587074882228">
+    <state x="374" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1587387068811">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="374" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1587074882228" />
-    <state x="363" y="82" width="689" height="708" key="find.popup" timestamp="1587079256903">
+    <state x="374" y="271" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1587387068811" />
+    <state x="363" y="82" width="689" height="708" key="find.popup" timestamp="1587390872898">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="363" y="82" width="689" height="708" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1587079256903" />
+    <state x="363" y="82" width="689" height="708" key="find.popup/0.23.1440.827@0.23.1440.827" timestamp="1587390872898" />
   </component>
 </project>

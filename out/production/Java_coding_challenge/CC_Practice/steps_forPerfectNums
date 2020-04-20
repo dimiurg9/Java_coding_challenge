@@ -1,11 +1,13 @@
+// 4/16/20
+//within created class:
 //1. declare a variable limit, assign it to 10000
-//2. create boolean method which takes int as an argument give name "num"
+//2. create boolean method "isPerfect" which takes int as an argument  "num"
 //3. declare variable temp, assign it to 0;
-//4. create for loop (starting from 1; less or equal to num; iteration)
+//4. create for loop (starting from 1; less or equal to half of num ; iteration)
 //5. continue for loop with if delimiter == 0 temp += i
 //6. compare temp and num, return true if it equal
 //7. else > false
-//8. create void method
+//8. create main method
 //9. start timing
 //10.iterate started from 1 to limit add if statement
 //taking result from above method taking arg f.e i from main method

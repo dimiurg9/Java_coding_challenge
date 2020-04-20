@@ -1,0 +1,17 @@
+whithin the class: 
+1. declare String input;
+2. create a boolean method isValid which accepts String in as an argument
+3. define map Map which key = Character, value = Character, assign new HashMap<>();
+4. to the map add {}
+5. to the map add []
+6. to the map add ()
+7. define Stack stack which accept caracter, assign it to Stack
+8. create for loop: 
+for (char ch : in.toCharArray()){
+            if(map.containsKey(ch)) stack.push(ch);
+        else if(!stack.empty() && map.get(stack.peek()) == ch) stack.pop();
+            else return false;} return stack.empty();
+create main class which takes String as an args[]
+9. declare variable input, assing any variation of parentheses
+10. print results System.out.println(input + (isValid(input) ?  " - valid":" -invalid"));
+
