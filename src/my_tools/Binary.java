@@ -3,8 +3,8 @@ package my_tools;
 public class Binary {
 
     public static void main(String[] cla) {
-        int x = 111;
-        int y = 16;
+        int x = 203;
+        int y = 101;
 
         System.out.println(x + " in binary: " + Integer.toBinaryString(x));
         System.out.println(y + " in binary: " + Integer.toBinaryString(y));

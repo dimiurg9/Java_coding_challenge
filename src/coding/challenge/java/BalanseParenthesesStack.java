@@ -21,7 +21,7 @@ public class BalanseParenthesesStack {
         System.out.println(input + (isValid(input) ?  " - valid":" -invalid"));
         input = "[{]";
         System.out.println(input + (isValid(input) ?  " - valid":" -invalid"));
-        input = "((({{{[[[]]]}}})))";
+        input = " ";
         System.out.println(input + (isValid(input) ?  " - valid":" -invalid"));
     }
 }
