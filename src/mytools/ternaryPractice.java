@@ -1,4 +1,4 @@
-package my_tools;
+package mytools;
 
 public class ternaryPractice {
     static int a = 55;

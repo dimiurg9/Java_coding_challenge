@@ -1,4 +1,4 @@
-package CC_Practice;
+package ccpractice;
 // 4/16/20
 //within created class:
 //1. declare a variable limit, assign it to 10000

@@ -1,4 +1,4 @@
-package CC_Practice;
+package ccpractice;
 
 import java.util.HashMap;
 import java.util.Map;

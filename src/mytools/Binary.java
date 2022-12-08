@@ -1,4 +1,4 @@
-package my_tools;
+package mytools;
 
 public class Binary {
 
