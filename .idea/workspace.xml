@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a3b4b34-cc82-4e44-ab27-70cbb9940b72" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_coding_challenge.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_coding_challenge.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CC_Practice/BalanceParenthesesStackPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ccpractice/BalanceParenthesesStackPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CC_Practice/PerfectNumber_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ccpractice/PerfectNumber_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CC_Practice/balanceParentheses_steps.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ccpractice/balanceParentheses_steps.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CC_Practice/steps_forPerfectNums" beforeDir="false" afterPath="$PROJECT_DIR$/src/ccpractice/steps_forPerfectNums" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_tools/Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mytools/Binary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_tools/ternaryPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mytools/ternaryPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/givechange/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/givechange/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOfOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice3.NumberOfOccurence" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="givechange.Main" />
       <module name="Java_coding_challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practice3.*" />
+          <option name="PATTERN" value="givechange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practice3.Palindrome" />
+    <configuration name="NumberOfOccurence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practice3.NumberOfOccurence" />
       <module name="Java_coding_challenge" />
       <extension name="coverage">
         <pattern>
@@ -139,10 +132,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.TestJunit" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.PerfectNumber" />
         <item itemvalue="Application.NumberOfOccurence" />
         <item itemvalue="Application.FibonacciSequence" />
-        <item itemvalue="Application.Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -187,5 +180,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_coding_challenge$Main.ic" NAME="Main Coverage Results" MODIFIED="1670826330428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>givechange.*</FILTER>
+    </SUITE>
   </component>
 </project>
