@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5a3b4b34-cc82-4e44-ab27-70cbb9940b72" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/givechange/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/givechange/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,7 +181,10 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Java_coding_challenge$Main.ic" NAME="Main Coverage Results" MODIFIED="1670826330428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Java_coding_challenge$TestJunit.ic" NAME="TestJunit Coverage Results" MODIFIED="1670830308279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>givechange.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java_coding_challenge$Main.ic" NAME="Main Coverage Results" MODIFIED="1670830221554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>givechange.*</FILTER>
     </SUITE>
   </component>
